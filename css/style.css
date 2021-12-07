@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(21, 157, 211);
+}
+
+#clock {
+    height: 600px;
+    margin: 0 auto;
+    width: 600px;
+    padding:20px;
+}
+
+#myCanvas {
+	width: 600px;
+}
